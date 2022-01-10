@@ -1,0 +1,13 @@
+ Az NBA2003.csv állomány az NBA 2003-as évében kötött szerződéseiről tartalmaz információt. A játékosok csapata, neve, éves fizetése (dollárban), és a szerződés éveinek száma olvasható a szöveges állományban.
+Az állomány első sora a játékosok számát adja meg, a további sorokban a fenti adatok olvashatók.
+
+    1) Olvassuk be az állományt egy rekordokat tartalmazó tömbbe! (El kell távolítani az idézőjeleket és a pontosvesszőket.)
+    2) Írjuk ki játékosonként a szerződésben rögzített évekre számolt összes jövedelmet!
+    3) Melyik játékos kapja a legnagyobb pénzt egy szezonra?
+    4) Adjuk meg csapatonként a játékosokra költött éves pénzösszeget!
+    5) Melyik csapatban van a legnagyobb különbség a maximális és minimális fizetés között?
+    6) Melyik csapatban a legalacsonyabb az átlagfizetés?
+    7)  Írjuk ki minden csapat "legdrágább" játékosának nevét!
+    8) Mennyi az átlagfizetés az NBA-ben?
+    9) Melyik csapatban hányan keresnek az átlag felett?
+    10) Rendezzük az adathalmazt éves fizetés szerint csökkenően!
